@@ -1,0 +1,14 @@
+{
+  "name": "modulemadness",
+  "version": "1.0.0",
+  "description": "Module Madness Assignment Inclass",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "baloghmathias@gmail.com",
+  "license": "ISC"
+}
